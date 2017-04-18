@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/092062cb625cd3b366aa7d83913fb8c52b999f88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5ec458ff1730bccbb14af5cfaecb0339b6fdac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/07ffd704c27439705e13653368f358ed34771ca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ac083681bdbf3b1268f58fdd1b35ffe62e486b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/7f309f6d31a7ede17ec3bc8ca78c74d8d73cf4ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cee8ecae441b94c9d1f1631cb01f0af5b1d14d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_caa617ada7ab47aebeb40462c1fc452521e4aaf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/0586c86cfa17bbcbccb66bf527d1138de88989af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f95677838b90a2f9c82a95d425d6bdc8d7d7b68d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/7c8a86079b71b6b15b68ecd9da00799737b71c66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fc952d1e387429a3e23a0bf19da80b26be4793b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6157a2835892cb546a3f317177a7bbcc198d8ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/8cce02cb8b3e650f02e2b18b42e219ef0630d8a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88069c11823785255d165c7efe3fdebaf84e4a4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/9300103dfa240d34005274bb582f051edd98ea75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_223b30f11f667d56451dd4b17a2f6a3328eb6f11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/4fd14274da57ba9972474ac5ff239117287d0237/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f78f3c667ddd14658c69a4a112ee2a228718ccf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/.android/build-cache/43f9a4f776aeded937808d5b0479285ada258d03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f17ef7d6f21a23001ecb5e3af246b75e2a091a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ebb250d4aa26af19b706e42d38f77d698b0ee52">
+        <dex dex="/Users/micste/Documents/ShoppingList-V2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f02beedc86022491f1eb29ebf556a0f9a3174536/classes.dex" />
+    </item>
+
+</items>
